@@ -5,6 +5,5 @@ Matplotlib Gallery:
 
 
 
-Created by Dr. Saad Laouadi
 
 Copyright to Dr. Saad Laouadi

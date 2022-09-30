@@ -6,4 +6,4 @@ Matplotlib Gallery:
 
 
 
-Copyright to Dr. Saad Laouadi
+© Copyright to Dr. Saad Laouadi
